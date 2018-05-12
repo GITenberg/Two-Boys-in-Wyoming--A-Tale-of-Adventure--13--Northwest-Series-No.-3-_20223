@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '2569'
     url: http://www.gutenberg.org/2009/agents/2569
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20223#Two-Boys-in-Wyoming--A-Tale-of-Adventure--13--Northwest-Series-No.-3-
 gutenberg_bookshelf:
 - Western
 - Children's Fiction
